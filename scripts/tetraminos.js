@@ -2,6 +2,13 @@ class Tetraminos {
 
     tetraminoes = []
 
+    static colors = [
+        "#1f62cf",
+        "#14db8b",
+        "#e35914",
+        "#8a0e0e",
+    ]
+
     static Ltetramino = [
         new Coordinates(1, 0),
         new Coordinates(1, 1),

@@ -8,12 +8,22 @@
     border-width: 0.5px, 0.5px;
 }
 
-.grid div {
+.grid .empty {
     height: 19px;
     width: 19px;
     border-style: solid;
     border-color: black;
     border-width: 0.5px;
+}
+
+.grid .red {
+    background-color: red;
+}
+
+.occupied {
+    height: 20px;
+    width: 20px;
+    border-style: None;
 }
 
 .tetraminos {
