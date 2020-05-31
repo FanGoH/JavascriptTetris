@@ -7,6 +7,9 @@ class Tetraminos {
         "#14db8b",
         "#e35914",
         "#8a0e0e",
+        "#758d0b",
+        "#a70b9f",
+        "#258f0b"
     ]
 
     static Ltetramino = [
